@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "RecordManager.h"
 @interface ViewController : UIViewController
 
 
